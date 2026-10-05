@@ -6,7 +6,7 @@ TO-DO:
 
  - Fix all the bugs in the code marked with "todo"
  - Clean up all the unnecessary branches
- - Fix the typo in the README
+ - (DONE)Fix the typo in the README
  - Add a new subsystem to the network
  - Add steps to run the code in the README
 """
