@@ -16,6 +16,9 @@ class QuantumCalibrator:
         self.defibrillator_defunced = False
         self.oscillator_oscillated = False
 
+    def count(self):
+        print("Timer counter: 1 2 3 liftoff")
+
     def defunc_the_defibrillator(self):
         print("[QuantumCalibrator] Defuncing the defibrillator...")
         time.sleep(0.3)
