@@ -79,7 +79,7 @@ gh auth login
 
 ![alt text](screenshots/image-1.png)
 
-You now have a personal copy of this repository on your GitHut account. It's time to add your group members!
+You now have a personal copy of this repository on your GitHub account. It's time to add your group members!
 
 3. From your fork, find the **Settings** tab.
 
