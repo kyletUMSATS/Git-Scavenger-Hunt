@@ -1,6 +1,6 @@
 # Git Scavenger Hunt
 
-New line
+This is a new line.
 
 Hey there, welcome to the scavenger hunt! 🥳
 
